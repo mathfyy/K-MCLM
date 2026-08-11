@@ -246,7 +246,7 @@ def train_model(CNN, csc, Ag_param, class_token, criterion, distill_criterion,
 
                 ########################################################################################
                 if task_id > 0:
-                    a = 0.05
+                    a = 0.15
                     b = 4e-3
                     loss = a * loss + (1 - a) * distill_loss - maxEntropy_loss * b
 
