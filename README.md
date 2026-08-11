@@ -14,8 +14,8 @@ CL tasks: Split B0_C3 and B0_C4
 Image data: https://medmnist.com/
 
 ## Model
-https://pan.baidu.com/s/17Lcr5rQn-hma4ouw3TGA3w 
-code: du6t
+https://pan.baidu.com/s/1uos0RanyhD3cPXfahZn0Kw 
+code: ts6c
 
 ## Training and Testing
 EMed_MCLM_2D.py, test_2Dmodel.py
